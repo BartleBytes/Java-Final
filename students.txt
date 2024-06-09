@@ -1,0 +1,4 @@
+Name: Daivd Hood, Address: 1450 York st, GPA: 3.9
+Name: Dylan Bartle, Address: 6750 E Chenango ave, GPA: 3.5
+Name: John Burn, Address: 4.1, GPA: 3.0
+Name: Moira Davis, Address: 1234 snowberry lane, GPA: 3.2
